@@ -1,4 +1,0 @@
-client/Main.java
- client.Main
-ServerMain/ServerMain.java
- ServerMain.ServerMain
